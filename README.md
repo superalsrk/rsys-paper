@@ -14,3 +14,5 @@ rsys paper collection
 + Alibaba: Leaning and Transferring IDs Representation in E-commerce
 + Alibaba: Bilion-scale Commodity Embedding for E-commerce Recommendation in Alibaba
 + Airbnb: Real-time Personalization using Embeddings for Search Ranking at Ai
+
+## Graph
